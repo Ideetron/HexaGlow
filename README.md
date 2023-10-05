@@ -13,3 +13,5 @@ Het stroomverbruik in werking is vrij hoog, ongeveer 300-600mA (bij 4V). Het str
 Laat de accu het liefst vol opgeladen. Als u de HexaGlow voor langere tijd opbergt, zorg dan voor voldoende lading in de accu.
 De accu kan worden opgeladen door een normale 5V lader die u ook voor uw telefoon gebruikt. Als er wordt geladen dan is er een schijnsel van een rode LED zichtbaar in de HexaGlow.
 Deze rode LED gaat uit als de accu vol opgeladen is en het laden zal dan stoppen.
+
+Voor vragen en opmerkingen: info@ideetron.nl en plaats het keyword 'HexaGlow' in het onderwerp.
