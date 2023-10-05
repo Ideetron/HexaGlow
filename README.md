@@ -1,5 +1,6 @@
 # HexaGlow
 Repository for the E&amp;A 2023 gadget HexaGlow
+
 De HexaGlow is de beursgadget voor de E&A 2023 in de Jaarbeurs van 26 t/m 28 september 2023.
 
 Deze file bevat het schema en een kleine uitleg van de werking.
